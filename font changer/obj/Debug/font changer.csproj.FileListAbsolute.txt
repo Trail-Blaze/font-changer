@@ -1,0 +1,9 @@
+C:\Users\bmorr\source\repos\font changer\font changer\bin\Debug\font changer.exe.config
+C:\Users\bmorr\source\repos\font changer\font changer\bin\Debug\font changer.exe
+C:\Users\bmorr\source\repos\font changer\font changer\bin\Debug\font changer.pdb
+C:\Users\bmorr\source\repos\font changer\font changer\obj\Debug\font_changer.Form1.resources
+C:\Users\bmorr\source\repos\font changer\font changer\obj\Debug\font_changer.Properties.Resources.resources
+C:\Users\bmorr\source\repos\font changer\font changer\obj\Debug\font changer.csproj.GenerateResource.cache
+C:\Users\bmorr\source\repos\font changer\font changer\obj\Debug\font changer.csproj.CoreCompileInputs.cache
+C:\Users\bmorr\source\repos\font changer\font changer\obj\Debug\font changer.exe
+C:\Users\bmorr\source\repos\font changer\font changer\obj\Debug\font changer.pdb
